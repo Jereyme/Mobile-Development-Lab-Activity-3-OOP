@@ -1,0 +1,8 @@
+Name: Sunny
+Age: 3 months
+Parrot ID: P001
+----------------
+Name: Buddy
+Age: 4 months
+Parrot ID: P002
+----------------
